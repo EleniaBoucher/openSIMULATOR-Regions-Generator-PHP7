@@ -9,6 +9,8 @@ w3.css
 
 uuid.clas.php
 
+.
+
 Der OpenSim Regions Generator V1.05 funktioniert zwar aber nur erst einmal für eine Region.
 
 Für jede Region wird eine Regions.ini erstellt,
