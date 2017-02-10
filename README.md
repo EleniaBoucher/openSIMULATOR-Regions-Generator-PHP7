@@ -16,3 +16,11 @@ Für jede Region wird eine Regions.ini erstellt,
 das hat den Vorteil einzelne Regionen einfach raus zu nehmen oder Regionen hinzuzufügen.
 
 Später kommt noch die Funktion mehrere Regionen in einer Datei zu erstellen hinzu.
+
+.
+
+* TODO:
+
+* Download der Regions.ini fehlt.
+
+* Mehrere Regionen auf einmal erstellen funktionieren noch nicht.
