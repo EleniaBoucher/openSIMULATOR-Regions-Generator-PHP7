@@ -34,7 +34,7 @@
             <input class="w3-input w3-border" type="text" placeholder="Welcome" name="osRegionsname" maxlength="40" />
         </div>
     </div>
- 
+  
 	<div class="form-group">
     <label for="base" class="w3-label w3-text-red control-label">Lokalisation X :</b></label>
         <div class="col-sm-4">
