@@ -1,9 +1,9 @@
 # openSIMULATOR-Regions-Generator
-PHP7 openSIMULATOR Regions Generator V1.08.
+PHP7 openSIMULATOR Regions Generator V1.11.
 
-![Title](http://www.gridtalk.de/attachment.php?aid=2670)
+![Title](http://virtual-talk.de/attachment.php?aid=2265)
 
-Benötigte Dateien für OpenSim Regions Generator V1.08
+Benötigte Dateien für OpenSim Regions Generator V1.11
 
 w3.css
 
@@ -24,7 +24,5 @@ Der Name der ini ist der Name der Region.
 .
 
 * TODO:
-
-* Download der Regions.ini fehlt.
 
 * Mehrere Regionen auf einmal erstellen funktionieren noch nicht.
