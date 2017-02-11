@@ -9,7 +9,7 @@ Regions Generator V1.11 ist erstellt für OpenSim 0.9.1
 
 Der Name der ini ist der Name der Region.
 
-Alle einzelnen Dateien in das Verzeichnis opensim/bin/Regions kopieren.
+Alle erstellten ini Dateien in das Verzeichnis opensim/bin/Regions kopieren.
 
 Es kann aus den Dateien auch eine Datei gemacht werden.
 
