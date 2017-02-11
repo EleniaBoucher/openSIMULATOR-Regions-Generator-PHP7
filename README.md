@@ -1,13 +1,11 @@
 # openSIMULATOR-Regions-Generator
-PHP7 openSIMULATOR Regions Generator V1.05.
+PHP7 openSIMULATOR Regions Generator V1.08.
 
-![Title](http://www.gridtalk.de/attachment.php?aid=2669)
+![Title](http://www.gridtalk.de/attachment.php?aid=2670)
 
-Benötigte Dateien für OpenSim Regions Generator V1.05
+Benötigte Dateien für OpenSim Regions Generator V1.08
 
 w3.css
-
-uuid.clas.php
 
 .
 
