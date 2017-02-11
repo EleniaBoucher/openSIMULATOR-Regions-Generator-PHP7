@@ -3,11 +3,7 @@ PHP7 openSIMULATOR Regions Generator V1.11.
 
 ![Title](http://virtual-talk.de/attachment.php?aid=2265)
 
-Benötigte Dateien für OpenSim Regions Generator V1.11
 
-w3.css
-
-.
 
 Der OpenSim Regions Generator V1.05 funktioniert zwar aber nur erst einmal für eine Region.
 
