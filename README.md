@@ -11,7 +11,7 @@ Der Name der ini ist der Name der Region.
 
 Alle einzelnen Dateien in das Verzeichnis opensim/bin/Regions kopieren.
 
-Es kann aus den Dateien auch eine Datei gemacht werden bringt aber nur Nachteile.
+Es kann aus den Dateien auch eine Datei gemacht werden.
 
 Es werden nur Dateien mit der Endung ini oder xml vom OpenSimulator geladen.
 
