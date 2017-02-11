@@ -1,21 +1,19 @@
 # openSIMULATOR-Regions-Generator
 PHP7 openSIMULATOR Regions Generator V1.11.
 
+Var Kompatibel!
+
+Regions Generator V1.11 ist erstellt für OpenSim 0.9.1
+
 ![Title](http://virtual-talk.de/attachment.php?aid=2265)
 
-
-
-Der OpenSim Regions Generator V1.05 funktioniert zwar aber nur erst einmal für eine Region.
-
-Für jede Region wird eine Regions.ini erstellt,
-
-das hat den Vorteil einzelne Regionen einfach raus zu nehmen oder Regionen hinzuzufügen.
-
-Später kommt noch die Funktion mehrere Regionen in einer Datei zu erstellen hinzu.
-
-Die Regions.ini wird im gleichen Verzeichnis wie der Generator ist generiert.
-
 Der Name der ini ist der Name der Region.
+
+Alle einzelnen Dateien in das Verzeichnis opensim/bin/Regions kopieren.
+
+Es kann aus den Dateien auch eine Datei gemacht werden bringt aber nur Nachteile.
+
+Es werden nur Dateien mit der Endung ini oder xml vom OpenSimulator geladen.
 
 .
 
