@@ -7,7 +7,7 @@
 	uuid.clas.php
  -->
 
-<link id="main" rel="stylesheet" href="/w3.css" type="text/css" media="screen"/>
+<link id="main" rel="stylesheet" href="http://www.w3schools.com/lib/w3.css" type="text/css" media="screen"/>
 
 </head>
     <title>openSIMULATOR Regionsgenerator</title>
