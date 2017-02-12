@@ -15,8 +15,7 @@ Es kann aus den Dateien auch eine Datei gemacht werden.
 
 Es werden nur Dateien mit der Endung ini oder xml vom OpenSimulator geladen.
 
-.
+P.S. Für die Farbanpassung bitte dies hier lesen:
 
-* TODO:
+http://www.w3schools.com/w3css/w3css_colors.asp
 
-* Mehrere Regionen auf einmal erstellen funktionieren noch nicht.
