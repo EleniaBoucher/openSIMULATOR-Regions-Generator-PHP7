@@ -5,6 +5,16 @@ Var Kompatibel!
 
 Regions Generator V1.11 ist erstellt für OpenSim 0.9.1
 
+.
+
+Achtung! Diese Software greift schreibend auf ihre Festplatte zu.
+
+Ich schließe jegliche Gewährleistung aus.
+
+Die Nutzung der Software geschieht auf eigenes Risiko.
+
+.
+
 ![Title](http://virtual-talk.de/attachment.php?aid=2265)
 
 Der Name der ini ist der Name der Region.
