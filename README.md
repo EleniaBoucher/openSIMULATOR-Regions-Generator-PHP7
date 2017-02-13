@@ -23,7 +23,7 @@ Alle erstellten ini Dateien in das Verzeichnis opensim/bin/Regions kopieren.
 
 Es kann aus den Dateien auch eine Datei gemacht werden.
 
-Es werden nur Dateien mit der Endung ini oder xml vom OpenSimulator geladen.
+Es werden nur Regionsdateien mit der Endung ini oder xml vom OpenSimulator geladen.
 
 P.S. Für die Farbanpassung bitte dies hier lesen:
 
