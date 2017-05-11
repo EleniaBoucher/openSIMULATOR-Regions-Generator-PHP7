@@ -25,7 +25,7 @@ Es kann aus den Dateien auch eine Datei gemacht werden.
 
 Es werden nur Regionsdateien mit der Endung ini oder xml vom OpenSimulator geladen.
 
-P.S. Für die Farbanpassung bitte dies hier lesen:
+P.S. Für die Farbanpassung (Einfach w3-blue-grey gegen andere Farbe austauschen) bitte dies hier lesen:
 
 http://www.w3schools.com/w3css/w3css_colors.asp
 
